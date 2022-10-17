@@ -11,5 +11,6 @@
 
 | Problem NO.  |      Title     |   Solutions   | Difficulty  | Site  |                 
 |-----------------------------|---------------------------|---------------------|---------------------------|-------------------|
-|1028|[Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|LeetCpde|
+|1028|[Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|LeetCode|
+|1028|[Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|HackerRank|
 
