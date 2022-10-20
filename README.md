@@ -10,7 +10,10 @@
 <br>
 
 <table>
-<tr><th> LeetCode </th><th> HackerRank </th></tr>
+<tr>
+    <th><img height=100 src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"> </th>
+    <th><img height=100 src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></th>
+</tr>
 <tr><td>
 
 | Problem NO. | Title | Solutions | Difficulty |
