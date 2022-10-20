@@ -13,15 +13,15 @@
 <tr><th> LeetCode </th><th> HackerRank </th></tr>
 <tr><td>
 
-| Problem NO. | Title | Solution | Difficulty |
+| Problem NO. | Title | Solutions | Difficulty |
 |-------------|-------|----------|------------|
 |a| b| c | d|
 
 </td><td>
 
-| Title | Solution | Difficulty |
+| Title | Solutions | Difficulty |
 |-------|----------|------------|
-|a|s|d|
+| [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/TypeofTriangle.sql)|EASY|
 
 </td></tr> </table>
 
