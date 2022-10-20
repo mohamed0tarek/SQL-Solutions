@@ -9,8 +9,19 @@
 # Table of solutions
 <br>
 
-| Problem NO.  |      Title     |   Solutions   | Difficulty  | Site  |                 
-|-----------------------------|---------------------------|---------------------|---------------------------|-------------------|
-|1028|[Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|LeetCode|
-|1028|[Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Solution](Solutions/1028.java)|Hard|HackerRank|
+<table>
+<tr><th> LeetCode </th><th> HackerRank </th></tr>
+<tr><td>
+
+| Problem NO. | Title | Solution | Difficulty |
+|-------------|-------|----------|------------|
+|a| b| c | d|
+
+</td><td>
+
+| Title | Solution | Difficulty |
+|-------|----------|------------|
+|a|s|d|
+
+</td></tr> </table>
 
