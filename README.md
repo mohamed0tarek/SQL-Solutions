@@ -18,7 +18,7 @@
 
 | Problem NO. | Title | Solutions | Difficulty |
 |-------------|-------|----------|------------|
-|a| b| c | d|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
 
 </td><td>
 
