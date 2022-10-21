@@ -18,6 +18,9 @@
 
 | Problem NO. | Title | Solutions | Difficulty |
 |-------------|-------|----------|------------|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/181.sql)|EASY|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
 
 </td><td>
