@@ -16,24 +16,24 @@
 </tr>
 <tr><td>
 
-| Title | Solutions | Difficulty |
-|-------|----------|------------|
-|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/181.sql)|EASY|
-|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
-|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/183.sql)|EASY|
-|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
+|NO.| Title | Solutions | Difficulty |
+|---|-------|----------|------------|
+|1|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/181.sql)|EASY|
+|2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
+|3|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/183.sql)|EASY|
+|4|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
 
 </td><td>
 
-| Title | Solutions | Difficulty |
-|-------|----------|------------|
-|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/H1.sql)|EASY|
-|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](Solutions/H2.sql)|EASY|
-|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](Solutions/H3.sql)|EASY|
-|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|[Solution](Solutions/H4.sql)|EASY|
-|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[Solution](Solutions/H5.sql)|EASY|
-|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[Solution](Solutions/H6.sql)|EASY|
-|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|[Solution](Solutions/H7.sql)|EASY|
+|NO.| Title | Solutions | Difficulty |
+|---|-------|----------|------------|
+|1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/H1.sql)|EASY|
+|2|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](Solutions/H2.sql)|EASY|
+|3|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](Solutions/H3.sql)|EASY|
+|4|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|[Solution](Solutions/H4.sql)|EASY|
+|5|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[Solution](Solutions/H5.sql)|EASY|
+|6|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[Solution](Solutions/H6.sql)|EASY|
+|7|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|[Solution](Solutions/H7.sql)|EASY|
 
 </td></tr> </table>
 
