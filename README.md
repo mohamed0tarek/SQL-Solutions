@@ -18,10 +18,10 @@
 
 |NO.| Title | Solutions | Difficulty |
 |---|-------|----------|------------|
-|1|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/181.sql)|EASY|
-|2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
-|3|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/183.sql)|EASY|
-|4|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/182.sql)|EASY|
+|1|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/l1.sql)|EASY|
+|2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/l2.sql)|EASY|
+|3|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/l3.sql)|EASY|
+|4|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](Solutions/l4.sql)|EASY|
 
 </td><td>
 
