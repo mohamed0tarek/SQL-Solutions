@@ -38,6 +38,8 @@
 |5|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[Solution](Solutions/H5.sql)|EASY|
 |6|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[Solution](Solutions/H6.sql)|EASY|
 |7|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|[Solution](Solutions/H7.sql)|EASY|
+|8|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[Solution](Solutions/H8.sql)|MEDIUM|
+|9|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[Solution](Solutions/H9.sql)|MEDIUM|
 
 </td></tr> </table>
 
