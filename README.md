@@ -24,6 +24,8 @@
 |4|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](Solutions/L4.sql)|EASY|
 |5|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Solution](Solutions/L5.sql)|EASY|
 |6|[Customer Placing](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](Solutions/L6.sql)|EASY|
+|7|[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](Solutions/L7.sql)|EASY|
+|8|[Sales Person](https://leetcode.com/problems/sales-person/)|[Solution](Solutions/L8.sql)|EASY|
 
 </td><td>
 
