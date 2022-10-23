@@ -18,7 +18,7 @@
 
 |NO.| Title | Solutions | Difficulty |
 |---|-------|----------|------------|
-|1|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)|EASY|
+|1|[Employees Earning More](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)|EASY|
 |2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/L2.sql)|EASY|
 |3|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/L3.sql)|EASY|
 |4|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](Solutions/L4.sql)|EASY|
