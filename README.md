@@ -26,6 +26,9 @@
 |6|[Customer Placing](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](Solutions/L6.sql)|EASY|
 |7|[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](Solutions/L7.sql)|EASY|
 |8|[Sales Person](https://leetcode.com/problems/sales-person/)|[Solution](Solutions/L8.sql)|EASY|
+|9|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Solution](Solutions/L9.sql)|EASY|
+|10|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[Solution](Solutions/L10.sql)|EASY|
+|11|[Actors and Directors](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](Solutions/L11.sql)|EASY|
 
 </td><td>
 
