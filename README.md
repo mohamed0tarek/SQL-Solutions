@@ -46,6 +46,8 @@
 |7|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|[Solution](Solutions/H7.sql)|EASY|
 |8|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[Solution](Solutions/H8.sql)|MEDIUM|
 |9|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[Solution](Solutions/H9.sql)|MEDIUM|
+|10|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](Solutions/H10.sql)|MEDIUM|
+|11|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H11.sql)|MEDIUM|
 
 </td></tr> </table>
 
