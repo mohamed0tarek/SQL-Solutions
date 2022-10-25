@@ -20,7 +20,7 @@
 |---|-------|----------|------------|
 |1|[Employees Earning More](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)|EASY|
 |2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/L2.sql)|EASY|
-|3|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/L3.sql)|EASY|
+|3|[Customers Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/L3.sql)|EASY|
 |4|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](Solutions/L4.sql)|EASY|
 |5|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[Solution](Solutions/L5.sql)|EASY|
 |6|[Customer Placing](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](Solutions/L6.sql)|EASY|
@@ -29,6 +29,9 @@
 |9|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Solution](Solutions/L9.sql)|EASY|
 |10|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[Solution](Solutions/L10.sql)|EASY|
 |11|[Actors and Directors](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](Solutions/L11.sql)|EASY|
+|12|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[Solution](Solutions/L12.sql)|EASY|
+|13|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)|[Solution](Solutions/L13.sql)|EASY|
+|14|[Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[Solution](Solutions/L14.sql)|EASY|
 
 </td><td>
 
