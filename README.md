@@ -32,6 +32,7 @@
 |12|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[Solution](Solutions/L12.sql)|EASY|
 |13|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)|[Solution](Solutions/L13.sql)|EASY|
 |14|[Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[Solution](Solutions/L14.sql)|EASY|
+|15|[Article Views I](https://leetcode.com/problems/article-views-i/)|[Solution](Solutions/L15.sql)|EASY|
 
 </td><td>
 
