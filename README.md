@@ -33,6 +33,8 @@
 |13|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)|[Solution](Solutions/L13.sql)|EASY|
 |14|[Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[Solution](Solutions/L14.sql)|EASY|
 |15|[Article Views I](https://leetcode.com/problems/article-views-i/)|[Solution](Solutions/L15.sql)|EASY|
+|16|[Reformat Dept. Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](Solutions/L16.sql)|EASY|
+|17|[Top Travellers](https://leetcode.com/problems/top-travellers/)|[Solution](Solutions/L17.sql)|EASY|
 
 </td><td>
 
