@@ -51,6 +51,8 @@
 |9|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[Solution](Solutions/H9.sql)|MEDIUM|
 |10|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](Solutions/H10.sql)|MEDIUM|
 |11|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H11.sql)|MEDIUM|
+|12|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[Solution](Solutions/H12.sql)|MEDIUM|
+|13|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H13.sql)|MEDIUM|
 
 </td></tr> </table>
 
