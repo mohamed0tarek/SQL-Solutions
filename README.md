@@ -35,6 +35,7 @@
 |15|[Article Views I](https://leetcode.com/problems/article-views-i/)|[Solution](Solutions/L15.sql)|EASY|
 |16|[Reformat Dept. Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](Solutions/L16.sql)|EASY|
 |17|[Top Travellers](https://leetcode.com/problems/top-travellers/)|[Solution](Solutions/L17.sql)|EASY|
+|18|[Group Sold Products](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](Solutions/L18.sql)|EASY|
 
 </td><td>
 
