@@ -36,6 +36,9 @@
 |16|[Reformat Dept. Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](Solutions/L16.sql)|EASY|
 |17|[Top Travellers](https://leetcode.com/problems/top-travellers/)|[Solution](Solutions/L17.sql)|EASY|
 |18|[Group Sold Products](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](Solutions/L18.sql)|EASY|
+|19|[Patients Condition](https://leetcode.com/problems/patients-with-a-condition/)|[Solution](Solutions/L19.sql)|EASY|
+|20|[Visited no Transaction](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[Solution](Solutions/L20.sql)|EASY|
+|21|[Account Summary II](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](Solutions/L21.sql)|EASY|
 
 </td><td>
 
