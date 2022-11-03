@@ -39,6 +39,10 @@
 |19|[Patients Condition](https://leetcode.com/problems/patients-with-a-condition/)|[Solution](Solutions/L19.sql)|EASY|
 |20|[Visited no Transaction](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[Solution](Solutions/L20.sql)|EASY|
 |21|[Account Summary II](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](Solutions/L21.sql)|EASY|
+|22|[Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Solution](Solutions/L22.sql)|EASY|
+|23|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Solution](Solutions/L23.sql)|EASY|
+|24|[Time Spent by Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Solution](Solutions/L24.sql)|EASY|
+|25|[Recyclable and Low Fat](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Solution](Solutions/L25.sql)|EASY|
 
 </td><td>
 
