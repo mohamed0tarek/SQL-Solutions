@@ -64,6 +64,7 @@
 |11|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H11.sql)|MEDIUM|
 |12|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[Solution](Solutions/H12.sql)|MEDIUM|
 |13|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H13.sql)|MEDIUM|
+|14|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|[Solution](Solutions/H14.sql)|MEDIUM|
 
 </td></tr> </table>
 
