@@ -16,7 +16,7 @@
 </tr>
 <tr><td>
 
-|NO.| Title | Solutions | Difficulty |
+|NO.| Title | Solutions | Diff. |
 |---|-------|----------| ------------|
 |1|[Employees Earning More](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)
 |2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/L2.sql)
@@ -49,7 +49,7 @@
 
 </td><td>
 
-|NO.| Title | Solutions | Difficulty |
+|NO.| Title | Solutions | Diff. |
 |---|-------|----------| ------------|
 |1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/H1.sql)
 |2|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](Solutions/H2.sql)
