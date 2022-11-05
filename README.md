@@ -16,8 +16,8 @@
 </tr>
 <tr><td>
 
-|NO.| Title | Solutions |
-|---|-------|----------|
+|NO.| Title | Solutions | Difficulty |
+|---|-------|----------| ------------|
 |1|[Employees Earning More](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)
 |2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/L2.sql)
 |3|[Customers Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/L3.sql)
@@ -49,8 +49,8 @@
 
 </td><td>
 
-|NO.| Title | Solutions |
-|---|-------|----------|
+|NO.| Title | Solutions | Difficulty |
+|---|-------|----------| ------------|
 |1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/H1.sql)
 |2|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](Solutions/H2.sql)
 |3|[Population Density](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](Solutions/H3.sql)
