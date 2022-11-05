@@ -43,6 +43,9 @@
 |23|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[Solution](Solutions/L23.sql)|EASY|
 |24|[Time Spent by Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Solution](Solutions/L24.sql)|EASY|
 |25|[Recyclable and Low Fat](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Solution](Solutions/L25.sql)|EASY|
+|26|[Rearrange Products](https://leetcode.com/problems/rearrange-products-table/description/)|[Solution](Solutions/L26.sql)|EASY|
+|27|[Calc. Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/)|[Solution](Solutions/L27.sql)|EASY|
+|28|[Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)|[Solution](Solutions/L28.sql)|EASY|
 
 </td><td>
 
