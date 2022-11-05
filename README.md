@@ -11,13 +11,13 @@
 
 <table>
 <tr>
-    <th><img height=100 src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"> </th>
-    <th><img height=100 src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></th>
+    <th><img height=110 src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"> </th>
+    <th><img height=110 src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></th>
 </tr>
 <tr><td>
 
-|NO.| Title | Solutions | Diff. |
-|---|-------|----------| ------------|
+|NO.| Title | Solutions |
+|---|-------|----------|
 |1|[Employees Earning More](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](Solutions/L1.sql)
 |2|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](Solutions/L2.sql)
 |3|[Customers Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](Solutions/L3.sql)
@@ -49,8 +49,8 @@
 
 </td><td>
 
-|NO.| Title | Solutions | Diff. |
-|---|-------|----------| ------------|
+|NO.| Title | Solutions |
+|---|-------|----------|
 |1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](Solutions/H1.sql)
 |2|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](Solutions/H2.sql)
 |3|[Population Density](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](Solutions/H3.sql)
