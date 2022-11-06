@@ -46,6 +46,7 @@
 |26|[Rearrange Products](https://leetcode.com/problems/rearrange-products-table/description/)|[Solution](Solutions/L26.sql)
 |27|[Calc. Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/)|[Solution](Solutions/L27.sql)
 |28|[Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)|[Solution](Solutions/L28.sql)
+|29|[Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/)|[Solution](Solutions/L29.sql)
 
 </td><td>
 
