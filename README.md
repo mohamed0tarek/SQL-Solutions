@@ -47,6 +47,9 @@
 |27|[Calc. Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/)|[Solution](Solutions/L27.sql)
 |28|[Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)|[Solution](Solutions/L28.sql)
 |29|[Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/)|[Solution](Solutions/L29.sql)
+|30|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[Solution](Solutions/L30.sql)
+|31|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)|[Solution](Solutions/L31.sql)
+|32|[Tree Node](https://leetcode.com/problems/tree-node/description/)|[Solution](Solutions/L32.sql)
 
 </td><td>
 
