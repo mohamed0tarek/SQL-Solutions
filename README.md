@@ -50,6 +50,7 @@
 |30|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[Solution](Solutions/L30.sql)
 |31|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)|[Solution](Solutions/L31.sql)
 |32|[Tree Node](https://leetcode.com/problems/tree-node/description/)|[Solution](Solutions/L32.sql)
+|33|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[Solution](Solutions/L33.sql)
 
 </td><td>
 
