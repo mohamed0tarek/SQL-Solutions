@@ -70,6 +70,8 @@
 |12|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[Solution](Solutions/H12.sql)
 |13|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](Solutions/H13.sql)
 |14|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|[Solution](Solutions/H14.sql)
+|15|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Solution](Solutions/H15.sql)
+|16|[SQL Projects](https://www.hackerrank.com/challenges/sql-projects/problem)|[Solution](Solutions/H16.sql)
 
 </td></tr> </table>
 
