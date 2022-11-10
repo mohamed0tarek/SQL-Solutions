@@ -72,10 +72,11 @@
 |14|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|[Solution](Solutions/H14.sql)
 |15|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Solution](Solutions/H15.sql)
 |16|[SQL Projects](https://www.hackerrank.com/challenges/sql-projects/problem)|[Solution](Solutions/H16.sql)
-|17|[Weather Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[Solution](Solutions/H17.sql)
-|18|[Weather Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Solution](Solutions/H18.sql)
-|19|[Placements](https://www.hackerrank.com/challenges/placements/problem)|[Solution](Solutions/H19.sql)
-|20|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Solution](Solutions/H20.sql)
+|17|[Weather Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[Solution](Solutions/H17.sql)
+|18|[Weather Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[Solution](Solutions/H18.sql)
+|19|[Weather Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Solution](Solutions/H19.sql)
+|20|[Placements](https://www.hackerrank.com/challenges/placements/problem)|[Solution](Solutions/H20.sql)
+|21|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Solution](Solutions/H21.sql)
 
 </td></tr> </table>
 
