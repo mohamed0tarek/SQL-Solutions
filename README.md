@@ -79,7 +79,7 @@
 |19|[Weather Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Solution](Solutions/H19.sql)
 |20|[Placements](https://www.hackerrank.com/challenges/placements/problem)|[Solution](Solutions/H20.sql)
 |21|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Solution](Solutions/H21.sql)
-|#|----------------------------------|-----
+|#|-------------------------------|-----
 
 </td></tr> </table>
 
