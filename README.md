@@ -52,6 +52,7 @@
 |32|[Tree Node](https://leetcode.com/problems/tree-node/description/)|[Solution](Solutions/L32.sql)
 |33|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[Solution](Solutions/L33.sql)
 |34|[Fix Names](https://leetcode.com/problems/fix-names-in-a-table/description/)|[Solution](Solutions/L34.sql)
+|35|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/)|[Solution](Solutions/L35.sql)
 |#|----------------------------------|-----
 
 </td><td>
