@@ -81,8 +81,7 @@
 |20|[Placements](https://www.hackerrank.com/challenges/placements/problem)|[Solution](Solutions/H20.sql)
 |21|[Occupations **](https://www.hackerrank.com/challenges/occupations/problem)|[Solution](Solutions/H21.sql)
 |22|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)|[Solution](Solutions/H22.sql)
-|23|[Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|[Solution](Solutions/H23.sql)
-|24|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[Solution](Solutions/H24.sql)
+|23|[Prime Numbers **](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|[Solution](Solutions/H23.sql)
 |#|-------------------------------|-----
 
 </td></tr> </table>
