@@ -53,6 +53,7 @@
 |33|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[Solution](Solutions/L33.sql)
 |34|[Fix Names](https://leetcode.com/problems/fix-names-in-a-table/description/)|[Solution](Solutions/L34.sql)
 |35|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/)|[Solution](Solutions/L35.sql)
+|36|[Rank Scores](https://leetcode.com/problems/rank-scores/description/)|[Solution](Solutions/L36.sql)
 |#|----------------------------------|-----
 
 </td><td>
